@@ -28,24 +28,6 @@ The Canadian public market shows significant concentration among top players.
 - 220.13B Total Earnings
 - 3.5M Total Employees
 
-## Sector Leadership and Economic Pillars
-Three distinct pillars emerge as the backbone of Canadian public markets.
-
-**1. Financial Services:**
-- Led by Royal Bank of Canada and Toronto Dominion Bank
-- Demonstrates Canada's strong banking regulatory framework
-- Shows resilience through economic cycles
-
-**2. Natural Resources**
-- Strong presence of energy companies (Suncor, Canadian Natural Resources)
-- Reflects Canada's vast natural wealth
-- Critical driver of export earnings
-
-**3. Technology and Innovation**
-- Emergence of companies like Shopify
-- Signals Canada's successful transition into digital economy
-- Growing importance in market capitalization
-
 ## Operational Efficiency Analysis
 Revenue per Employee metrics reveal two distinct business models.
 
