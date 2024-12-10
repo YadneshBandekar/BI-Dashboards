@@ -14,7 +14,7 @@ Data is sourced from [Companies Market Cap](https://companiesmarketcap.com/canad
 ## 🛠️ Tools & Technologies
 - **Google Looker Studio** for dashboard creation and visualization
 - Data processing and analysis
-- Interactive filtering and drill-down capabilities
+- Interactive filtering
 
 - **Interactive Visualizations**
   - Market concentration analysis through pie charts
